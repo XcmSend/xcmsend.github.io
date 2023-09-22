@@ -1,6 +1,6 @@
 # Summary
 
-- [XCMSend Intro](./chapter_1.md)  
+- [XCMSend Intro](./readme.md)  
 - [Teleport](./teleport/readme.md)  
   -  [Polkadot](./teleport/polkadot.md)  
   -  [Assethub](./teleport/assethub.md)  
