@@ -4,8 +4,8 @@ XCMSend is an opensource application that lets you create workflows in a drag an
 
 ## Build XCMSend locally:  
 ```shell
-$ git clone git@github.com:XcmSend/xcmsend-ui.git  
-$ cd xcmsend-ui/
+$ git clone git@github.com:XcmSend/app-v0.0.1.git  
+$ cd app-v0.0.1/
 $ yarn run gen-gitinfo  
 $ npm install -f
 ```

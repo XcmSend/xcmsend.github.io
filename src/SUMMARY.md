@@ -11,4 +11,5 @@
 - [Basic workflow](./workflows/readme.md)   
 - [Deployments](./deployments/readme.md)   
   -  [Public instances](./deployments/public.md)
-  -  [Run your own instance](./deployments/local.md)
+  -  [Run your own instance](./deployments/local.md) 
+-  [Testing Guide](./tests/readme.md)
