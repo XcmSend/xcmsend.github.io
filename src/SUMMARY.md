@@ -12,4 +12,5 @@
 - [Deployments](./deployments/readme.md)   
   -  [Public instances](./deployments/public.md)
   -  [Run your own instance](./deployments/local.md) 
+  -  [Run XCMSend in docker](./deployments/docker.md)
 -  [Testing Guide](./tests/readme.md)
