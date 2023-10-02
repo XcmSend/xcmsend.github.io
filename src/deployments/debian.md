@@ -30,6 +30,7 @@ $ git clone https://github.com/XcmSend/app-v0.0.1
 
 ```shell
 $ cd app-v0.0.1/ 
+$ npm run gen-gitinfo  
 $ npm install -f 
 ```  
 Note: Make sure you run a version of nodejs that is more later than 8,5.
