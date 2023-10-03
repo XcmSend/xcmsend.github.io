@@ -7,6 +7,13 @@
  -  git   
  -  3 gigabyte or more free (harddrive)disk space   
 
+#### Diskspace needed:  
+Amount of disk space consumed after installing:  
+```shell
+$ user@debian:/tmp$ du -sh app-v0.0.1
+1.5G    app-v0.0.1
+```
+
 #### Install npm on Debian:  
 We recommend that you use a npm version that is later than 8.5, in order to get a later version on debian, add the nodejs package mirror and upgrade your local nodejs version:   
 ```shell
