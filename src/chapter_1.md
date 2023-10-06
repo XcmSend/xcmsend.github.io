@@ -20,5 +20,5 @@ $ npm run dev
 ```
 
 ### Links:  
-[XCMSend github repo](https://github.com/XcmSend/xcmsend-ui)   
+[XCMSend github repo](https://github.com/XcmSend/app-v0.0.1)     
 [Intro to XCM](https://wiki.polkadot.network/docs/learn-xcm)   

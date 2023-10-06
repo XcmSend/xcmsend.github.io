@@ -14,22 +14,37 @@ $ yarn run test
 ```
 $ yarn run test
 yarn run v1.22.19
-$ npx tsx  src/tests/run_tests.ts
+$ npx tsx src/tests/run_tests.ts
 Running tests
 Running Balance tests
+Testing assethub balance
+assethub balance ok
+Checking polkadot balance checks
+polkadot native balance check ok
+Testing Hydradx asset balance
+Hydradx asset balance ok
 running transaction tests
 [test] Polkadot transfers
 Polkadot DOT > assethub OK
-[dotTohydraDx] tx created!
-[dotTohydraDx] tx to hex 0xec04630803000100c91f030001010068de6e1566e333753df02b2446f24e1cc2b796cfdf954dc0f39753c578e02a40030400000000e5140000000000
 Polkadot DOT > hydradx OK
 [test] AssetHub transfers
 Assethub > hydradx ok
+[test] assethub > polkadot
 Assethub > Polkadot ok
 [test] HydraDx transfers
 Hydradx > assethub ok
+[test] Hydradx > polkadot
 Hydradx > polkadot ok
-all transaction tests are ok!
+all transaction tests are constructed ok!
 test completed
 ```
+
+##### The tests will check:   
+ -  drafting transactions and checking that they are encoded in the right way    
+ -  checking if each chain returns correct asset and native balance    
+
+
+
+### Broadcast transactions:  
+Edit the `src/tests/run_tests` and set your seed in the `get_test_account` function.  
 
