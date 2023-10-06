@@ -1,5 +1,8 @@
-# xcmsend.github.io
+# xcmsend.github.io      
+[![Book - mdbook](https://img.shields.io/badge/Book-mdbook-orange?logo=gitbook&logoColor=white&style=flat-square)](https://xcmsend.github.io)    
+
 XcmSend public documentation
+
 
 
 ## Build:   
