@@ -21,4 +21,7 @@ You can drag in an action node between two chains, the action is either Teleport
 # Chain Node   
 A chain node defines the source and destination chain. Drag in a chain box and select which chain you want to add in your workflow.  
 
+# Scenario  
+Every workspace/transaction flow is refeered to as a scenario. You can browse the current scenarios you have created in xcmsend  by going to **/labs**
 
+![](/img/lab_view.png)

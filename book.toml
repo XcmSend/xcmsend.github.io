@@ -1,0 +1,9 @@
+[book]
+title = "XCMSend Documentation"
+author = "flipchan at rust syndicate"
+description = "XCMSend public documentation"
+
+[output.html]
+git-repository-url = "https://github.com/XcmSend/xcmsend.github.io"
+git-repository-icon = "fa-github"
+edit-url-template = "https://github.com/XcmSend/xcmsend.github.io/edit/main/{path}"

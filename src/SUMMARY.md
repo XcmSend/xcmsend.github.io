@@ -15,3 +15,7 @@
   -  [Deploy on Debian linux](./deployments/debian.md)
   -  [Run XCMSend in docker](./deployments/docker.md)
 -  [Testing Guide](./tests/readme.md)
+-  [Json Api](./api/readme.md)    
+   -  [Build api](./api/build.md)  
+   -  [Api Documentation](./api/docs.md)   
+   -  [Make your own dapp](./api/dapp.md)  
