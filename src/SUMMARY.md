@@ -18,4 +18,5 @@
 -  [Json Api](./api/readme.md)    
    -  [Build api](./api/build.md)  
    -  [Api Documentation](./api/docs.md)   
-   -  [Make your own dapp](./api/dapp.md)  
+   -  [Api client example Python flask](./api/flask.md)
+   -  [WIP | Make your own dapp](./api/dapp.md)  
