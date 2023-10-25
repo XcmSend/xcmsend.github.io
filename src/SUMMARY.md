@@ -19,4 +19,5 @@
    -  [Build api](./api/build.md)  
    -  [Api Documentation](./api/docs.md)   
    -  [Api client example Python flask](./api/flask.md)
+   -  [DOT > USDT](./api/usdt.md)   
    -  [WIP | Make your own dapp](./api/dapp.md)  
