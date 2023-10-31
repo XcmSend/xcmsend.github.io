@@ -8,10 +8,10 @@ You can enjoy a public instance of XCMSend here:
 
 ## Build XCMSend locally:  
 ```shell
-$ git clone git@github.com:XcmSend/app-v0.0.1.git  
-$ cd app-v0.0.1/
-$ yarn run gen-gitinfo  
+$ git clone git@github.com:XcmSend/app.git  
+$ cd app/
 $ npm install -f
+$ npm run build
 ```
 
 ## Run:  
@@ -31,5 +31,5 @@ We recommend and test most features with Polkadot.js browser wallet.
  
 
 ### Links:  
-[XCMSend github repo](https://github.com/XcmSend/app-v0.0.1)     
+[XCMSend github repo](https://github.com/XcmSend/app)     
 [Intro to XCM](https://wiki.polkadot.network/docs/learn-xcm)   

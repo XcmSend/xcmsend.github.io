@@ -9,7 +9,12 @@ hydradx > polkadot
 
 assethub > polkadot
 assethub > hydradx
+assethub > interlay
+
+interlay > assethub
 
 polkadot > hydradx
 polkadot > assethub
+
+
 ```
