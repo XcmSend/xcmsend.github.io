@@ -30,15 +30,15 @@ $ sudo apt-get install nodejs -y
 
 #### Clone repo: 
 ```shell
-$ git clone https://github.com/XcmSend/app-v0.0.1
+$ git clone https://github.com/XcmSend/app.git
 ```
 
 #### Install with npm:  
 
 ```shell
-$ cd app-v0.0.1/ 
-$ npm run gen-gitinfo  
+$ cd app/ 
 $ npm install -f 
+$ npm run build 
 ```  
 Note: Make sure you run a version of nodejs that is more later than 8,5.
 
@@ -49,7 +49,7 @@ Note: Make sure you run a version of nodejs that is more later than 8,5.
 ```shell  
 $ npm run dev
 
-> @bagpipes/xcm-send@0.0.1 dev
+> @bagpipes/xcm-send@0.0.3 dev
 > yarn build:tailwind && vite
 
 yarn run v1.22.19
