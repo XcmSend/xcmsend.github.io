@@ -9,9 +9,8 @@ hydradx > polkadot
 
 assethub > polkadot
 assethub > hydradx
-assethub > interlay
 
-interlay > assethub
+assethub > interlay
 
 polkadot > hydradx
 polkadot > assethub
