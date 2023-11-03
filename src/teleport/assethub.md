@@ -5,15 +5,10 @@ Asset Hub is a polkadot connected parachain. Using the Teleport option in the `A
 ## Assethub > Polkadot:   
 ![](/img/assethub2dot.png)   
 
-### Assethub > Polkadot video:   
-
-
-
 ## Assethub > HydraDx:   
 ![](/img/assethub2hydradx.png)  
 
-
-### Assethub > HydraDX video:  
+## [Assethub > Interlay](https://xcmsend.github.io/teleport/interlay.html)
    
 
 ### Links:  
