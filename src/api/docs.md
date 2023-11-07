@@ -13,7 +13,7 @@ Transfer an on-chain asset from one polkadot connected parachain to another
 
 ##### Code example:   
 ```shell
-$ curl -X POST http://127.0.0.1:8080/xcm-asset-transfer   -H "Content-Type: application/json"   -d '{
+curl -X POST http://127.0.0.1:8080/xcm-asset-transfer   -H "Content-Type: application/json"   -d '{
     "sourchain": "assethub",
     "destchain": "hydradx",
     "assetid": "1984",
