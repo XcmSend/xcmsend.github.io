@@ -22,4 +22,7 @@
    -  [Api Documentation](./api/docs.md)   
    -  [Api client example Python flask](./api/flask.md)
    -  [DOT > USDT](./api/usdt.md)   
-   -  [WIP | Make your own dapp](./api/dapp.md)  
+   -  [WIP | Make your own dapp](./api/dapp.md) 
+-  [Schedule transactions on Polkadot](./schedule.md)
+
+ 
