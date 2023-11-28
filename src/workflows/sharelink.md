@@ -2,6 +2,14 @@
 
 You can easily share your scenario with everyone using the copy link function:  
 
+-  Go to Lab:
+![](/img/lab_view.png)
+
+-  Press copy link button:  
+![](/img/copylink.png)
+This will automatically save the link to your clipboard so you can easily paste it.
+
+-  Share it with the world!
 
 ## Contribute:  
 Have you created a useful scenario? Add it to this guide by creating a new issue on our github:
