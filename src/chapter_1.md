@@ -4,6 +4,9 @@ XCMSend is an opensource application that lets you create workflows in a drag an
 
 You can enjoy a public instance of XCMSend here:  
 [https://xcmsend.com](https://xcmsend.com)  
+
+## Name change:  
+We are in the process of changing the name from XCMSend to Bagpipes. 
  
 
 ## Build XCMSend locally:  

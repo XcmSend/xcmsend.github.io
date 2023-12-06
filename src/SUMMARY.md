@@ -10,6 +10,7 @@
 - [Swap - Coming soon](./swap/readme.md)
   -  [HydraDx swap - Coming soon](./swap/hydradx.md) 
 - [Basic workflow](./workflows/readme.md)   
+- [Future users](./users/profile.md)   
 - [Share your workflow](./workflows/sharelink.md)
 - [Templates](./workflows/templates/intro.md)  
     - [DOT > USDT](./workflows/templates/dot2usdt.md) 
