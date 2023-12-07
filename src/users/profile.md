@@ -38,12 +38,16 @@ Julio is a product developer and Dapp builder who builds and maintains client pr
 
 #### Jessica ("Developer Advocate")
 
+![](/img/jessica.png)
+
 Jessica works in the web3 space as a developer advocate, helping people build in the ecosystem.    
 She maintance a public documentation wiki for her project.  
 In order to help new users in the how-to section, she creates a scenario in bagpipes for each guide and leaving the link where the user can execute the transaction. She use this for the XCM transfer section and for using various pallet functions in a userfriendly and abstracted way.  
 
 
 #### Jasper ("Community manager")
+
+![](/img/jasper.png)
 
 Jasper is a community manager, and maintain a discord and telegram project channel. Everytime someone asks how to send an asset from one chain to another with XCM he uses a bagpipe bot to generate a link to the scenario, the user can use 
 
