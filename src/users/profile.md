@@ -85,6 +85,9 @@ The drag-and-drop functionality empowers her to experiment with diverse applicat
 
 
 #### Jonathan ("Dotsama enthusiast")  
+
+![](/img/jonathan.png)
+
 Jonathan runs a validator and votes in opengov on behalf of others.   
 He use bagpipes to generate links where people can nominate to his validator and delegate DOT to him.  
 
