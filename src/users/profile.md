@@ -1,8 +1,8 @@
-# Future users   
+# User Profile (Avatars)
 
 List of potential future users that we will use bagpipes with the future functionality.  
 
-## Potential future users:
+## Avatars:
 
 
 #### Jan (“Media DAO”):
