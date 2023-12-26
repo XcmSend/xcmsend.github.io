@@ -28,5 +28,5 @@
    -  [DOT > USDT](./api/usdt.md)   
    -  [WIP | Make your own dapp](./api/dapp.md) 
 -  [Schedule transactions on Polkadot](./schedule.md)
-
+-  [$DED memecoin - Rococo testnet](./roc/ded.md)
  
