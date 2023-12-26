@@ -1,7 +1,6 @@
 # $DED memecoin - Rococo testnet   
 
 
-As christmas is upon us, we want to bring a new feature to Bagpipes. 
 **Rococo ROC to Rococo Assethub transfers**!
 A fun new meme token is being launched in the Polkadot ecosystem. Since we both want to release a fun christmas feature and support $DED, we made a fun animation.    
 
