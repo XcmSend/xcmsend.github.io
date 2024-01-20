@@ -1,9 +1,39 @@
 # Api Documentation
 
 
+## DB:    
+Right now the API just use a simple key value inspired json file to store the diagram data, the file can be found at *dist/src/api/urls2.json*.   
+The format is `{storage_key, compressed_diagramdata}`  
+    
+ Reset db:   
+ ```shell
+ echo "{urls:[]}" > dist/src/api/urls2.json
+ ```
 
 
 ### Paths:  
+
+##### Path: `/scenario/info`;   
+Get information about a scenario.  
+
+### Code:
+```shell
+$ curl -X POST -H "Content-Type: application/json" -d '{"id": "Uvervffcw"}' http://localhost:8080/scenario/info
+$ {"result":"assetHub > xTransfer > polkadot"}
+```
+
+##### Path: `/create/scenario`;   
+Create a new scenario.  
+### Code:
+```shell
+$ curl -X POST -H "Content-Type: application/json" -d '{"source_chain": "polkadot", "dest_chain": "hydraDx", "source_address": "your_source_address", "amount": 100, "assetid": 1}' http://localhost:8080/create/scenario
+$ {"result":"QWdI3KifK"}
+```
+    
+After your scenario id is generated, you can import it in the ui:   
+`http://localhost:5173/#/create/?diagramData=MY_SCENARIO_ID`
+    
+
 
 #### `/xcm-asset-transfer`:  
 
