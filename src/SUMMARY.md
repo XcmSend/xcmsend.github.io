@@ -27,6 +27,8 @@
    -  [Api client example Python flask](./api/flask.md)
    -  [DOT > USDT](./api/usdt.md)   
    -  [WIP | Make your own dapp](./api/dapp.md) 
+- [Discord Bot](./api/discord.md)   
+  -  [Bot commands](./api/discord_bot_commands.md) 
 -  [Schedule transactions on Polkadot](./schedule.md)
 -  [$DED memecoin - Rococo testnet](./roc/ded.md)
  
