@@ -1,7 +1,7 @@
 [book]
-title = "Bagpipes/XCMSend Documentation"
+title = "Bagpipes Documentation"
 author = "flipchan at rust syndicate"
-description = "BagpipesXCMSend public documentation"
+description = "Bagpipes public documentation"
 
 [output.html]
 git-repository-url = "https://github.com/XcmSend/xcmsend.github.io"
