@@ -22,7 +22,7 @@ $ curl -X POST -H "Content-Type: application/json" -d '{"id": "Uvervffcw"}' http
 $ {"result":"assetHub > xTransfer > polkadot"}
 ```
 
-##### Path: `/create/scenario`;   
+## Path: `/create/scenario`;   
 Create a new scenario.  
 ### Code:
 ```shell
@@ -33,6 +33,32 @@ $ {"result":"QWdI3KifK"}
 After your scenario id is generated, you can import it in the ui:   
 `http://localhost:5173/#/create/?diagramData=MY_SCENARIO_ID`
     
+## `/create/swap`:
+Swap an asset using the HydraDx omnipool.
+
+### Code:
+In this example we want to swap 10 amount of asset 0(HDX) for asset 5(DOT).  
+
+```shell 
+$ curl -X POST -H "Content-Type: application/json" -d '{"assetin": 0, "assetout": 5, "amount": 10 }' http://localhost:8080/create/swap
+{"success":true,"swap":{"swap_tx":"0xac043b05010000000500000000a0724e180900000000000000000000377d61b2850000000000000000000000","scenarioid":"IkwpZfaqF"}}
+
+```
+Sign and broadcast the swap_tx or view the scenario in our main UI with the scenarioid. 
+
+
+*input:*   
+-  assetin   
+>  Number type, the asset id of the asset you want to convert from and have balance of.   
+
+-  assetout   
+>  Number type, the asset id of the asset you want to recieve. The recieving assetid 
+
+-  amount     
+>  Number type, Enter the amount you want to swaps of assetin asset. **Note:** if you want to exchange for example 10 dot, enter 10, do not enter the amount * token decimals. Enter the amount just like you would on any swap site.   
+
+
+
 
 
 #### `/xcm-asset-transfer`:  
@@ -64,7 +90,7 @@ $ curl -X POST http://127.0.0.1:8080/xcm-asset-transfer   -H "Content-Type: appl
 
 
 
-#### `/polkadot/openchannels`  
+## `/polkadot/openchannels`  
 
 ##### Info:  
 Check what hrmp channels are avaliable for a parachain connected to polkadot.  
@@ -80,7 +106,7 @@ Result:
 `{"open_hrmp_channels":1001,1002,2000,2004,2006,2007,2011,2012,2013,2030,2031,2032,2034,2035,2040,2046,2048,2051,2094,2101,2104],"sourcechain":1000}`
 
 
-#### `/call/template`  
+## `/call/template`  
 
 ##### Info:  
 Coming soon
@@ -93,7 +119,7 @@ Coming soon
 
 
 
-##### `/broadcast`:
+## `/broadcast`:
 
 ###### Information:  
 Broadcast a transaction using author submitextrinsics 
