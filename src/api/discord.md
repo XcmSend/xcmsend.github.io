@@ -1,6 +1,9 @@
 # Discord Bot  
 
+
 On our discord instance, you can utilize the BagpipeBOT for creating workflows, displaying workflow info and getting important links.
+
+**BagpipesBot now supports slash commands!**
 
 With Bagpipes bot, community can quickly generate a scenario and view it on the public Bagpipes instance:   
 [https://alpha.bagpipes.io](https://alpha.bagpipes.io) 
