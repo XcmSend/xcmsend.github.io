@@ -3,6 +3,8 @@
 
 On our discord instance, you can utilize the BagpipeBOT for creating workflows, displaying workflow info and getting important links.
 
+> If you want to use the Bagpipes Bot on your own discord server, feel free to reach out to us on [Bagpipes discord server](https://xcmsend.github.io/api/discord_bot_commands.html)
+
 **BagpipesBot now supports slash commands!**
 
 With Bagpipes bot, community can quickly generate a scenario and view it on the public Bagpipes instance:   
