@@ -8,7 +8,11 @@ Bagpipes public documentation
 ## Build:   
 ```
 git clone git@github.com:XcmSend/xcmsend.github.io.git
+```
+```
 cd xcmsend.github.io/
+```
+```
 mdbook
 ```
 
