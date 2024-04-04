@@ -19,6 +19,7 @@
   -  [Run your own instance](./deployments/local.md) 
   -  [Deploy on Debian linux](./deployments/debian.md)
   -  [Run XCMSend in docker](./deployments/docker.md)
+-  [Troubleshooting](./tests/troubleshooting.md)
 -  [Testing Guide](./tests/readme.md)
    -  [Api tests](./tests/api.md)
 -  [Json Api](./api/readme.md)    
