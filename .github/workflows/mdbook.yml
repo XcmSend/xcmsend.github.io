@@ -31,6 +31,18 @@ jobs:
     env:
       MDBOOK_VERSION: 0.4.21
     steps:
+
+      # Cache Rust toolchain and dependencies
+      - name: Cache Rust toolchain and dependencies
+        uses: actions/cache@v2
+        with:
+          path: |
+            ~/.cargo/
+            ./target/
+          key: ${{ runner.os }}-rust-${{ hashFiles('**/Cargo.lock') }}
+
+
+    
       - uses: actions/checkout@v3
       - name: Install mdBook
         run: |
