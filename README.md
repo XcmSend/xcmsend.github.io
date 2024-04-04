@@ -6,16 +6,10 @@ Bagpipes public documentation
 
 
 ## Build:   
-```
+```shell
 git clone git@github.com:XcmSend/xcmsend.github.io.git
-```
-```
 cd xcmsend.github.io/
-```
-```
 cargo install mdbook
-```
-```
 mdbook
 ```
 
