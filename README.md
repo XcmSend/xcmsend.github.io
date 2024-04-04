@@ -13,6 +13,9 @@ git clone git@github.com:XcmSend/xcmsend.github.io.git
 cd xcmsend.github.io/
 ```
 ```
+npm i
+```
+```
 mdbook
 ```
 
