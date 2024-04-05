@@ -13,6 +13,7 @@ cargo install mdbook
 mdbook
 ```
 
+
 ## Run a local instance  
 ```
 $ mdbook serve --open
