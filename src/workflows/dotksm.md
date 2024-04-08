@@ -8,6 +8,9 @@ In the community forum post Kusama Assethub to Polkadot assethub was shown. We h
 
 
 > We have implemented DOT > kusama assethub transfers with Bagpipes!! You can now drag and drop together a transfer in seconds.   
+## Try it here:   
+[https://app.xcmsend.com/#/builder](https://app.xcmsend.com/#/builder)   
+
 
 ## Video demo:
 [https://drive.google.com/file/d/1iDaMNiZDaUjD95MGOwZqc87KBkl_deYL/view](https://drive.google.com/file/d/1iDaMNiZDaUjD95MGOwZqc87KBkl_deYL/view)    
