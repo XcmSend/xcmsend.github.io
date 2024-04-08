@@ -20,6 +20,8 @@ In the community forum post Kusama Assethub to Polkadot assethub was shown. We h
 
 You can check out this call by going to polkadot.js apps and pasting it in the decode field.  [Check it on this link](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fpolkadot-asset-hub-rpc.polkadot.io#/extrinsics/decode)    
 
+## Broadcasted transaction:    
+[polkadot assethub #6021484-2](https://assethub-polkadot.subscan.io/extrinsic/6021484-2)
 
 
 ### Check DOT balance on Kusama assethub:  
