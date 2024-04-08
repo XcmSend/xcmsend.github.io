@@ -11,6 +11,7 @@
   -  [HydraDx swap](./swap/hydradx.md) 
 - [Basic workflow](./workflows/readme.md)   
 - [Future users](./users/profile.md)   
+- [Polkadot to Kusama Transfers](./workflows/dotksm.md)
 - [Share your workflow](./workflows/sharelink.md)
 - [Templates](./workflows/templates/intro.md)  
     - [DOT > USDT](./workflows/templates/dot2usdt.md) 
