@@ -30,6 +30,7 @@ If all is successful you should be able to see this message on the kusama asseth
 
 Go to chainstate and query `foreignAssets`:  
 
+![](/img/query_ksm.png)
 
 
 #### Polkadot.js typescript code:  
