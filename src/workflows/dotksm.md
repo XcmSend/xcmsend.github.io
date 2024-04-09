@@ -23,12 +23,14 @@ You can check out this call by going to polkadot.js apps and pasting it in the d
 ## Broadcasted transaction:    
 [polkadot assethub #6021484-2](https://assethub-polkadot.subscan.io/extrinsic/6021484-2)
 
+If all is successful you should be able to see this message on the kusama assethub polkadot.js app explorer
+![](/img/query_foreign.png)
 
 ### Check DOT balance on Kusama assethub:  
 
 Go to chainstate and query `foreignAssets`:  
 
-![](/img/query_foreign.png)
+
 
 #### Polkadot.js typescript code:  
 ```typescript
