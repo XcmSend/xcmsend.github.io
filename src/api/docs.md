@@ -22,11 +22,22 @@ $ curl -X POST -H "Content-Type: application/json" -d '{"id": "Uvervffcw"}' http
 $ {"result":"assetHub > xTransfer > polkadot"}
 ```
 
+
+## Path `/scenario/info/full`:  
+
+### Code:   
+```shell
+$ curl -X POST -H "Content-Type: application/json" -d '{"id": "SFdcb77BY"}' http://localhost:8080/scenario/info/full
+
+$ {"result":{"tx":"0xa8042c0103000101000921009101030102009d1f0300a68db75204262bfc29aac76cd546e2500ba2acbd00","summary":"turing > xTransfer > moonriver","asset":"0","amount":"100","source_chain":"turing","dest_chain":"moonriver","txtype":"xTransfer"}}
+```
+
+
 ## Path: `/create/scenario`;   
 Create a new scenario.  
 ### Code:
 ```shell
-$ curl -X POST -H "Content-Type: application/json" -d '{"source_chain": "polkadot", "dest_chain": "hydraDx", "source_address": "your_source_address", "amount": 100, "assetid": 1}' http://localhost:8080/create/scenario
+$ curl -X POST -H "Content-Type: application/json" -d '{"source_chain": "turing", "dest_chain": "moonriver", "destination_address": "your address here", "amount": 100, "assetid": 0}' http://localhost:8080/create/scenario 
 $ {"result":"QWdI3KifK"}
 ```
     
