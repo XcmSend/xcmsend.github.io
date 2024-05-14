@@ -33,11 +33,11 @@ $ {"result":{"tx":"0xa8042c0103000101000921009101030102009d1f0300a68db75204262bf
 ```
 
 
-## Path: `/create/scenario`;   
+## Path: `/api/scenario/create`;   
 Create a new scenario.  
 ### Code:
 ```shell
-$ curl -X POST -H "Content-Type: application/json" -d '{"source_chain": "turing", "dest_chain": "moonriver", "destination_address": "your address here", "amount": 100, "assetid": 0}' http://localhost:8080/create/scenario 
+$ curl -X POST -H "Content-Type: application/json" -d '{"source_chain": "turing", "dest_chain": "moonriver", "destination_address": "your address here", "amount": 100, "assetid": 0}' http://localhost:8080/api/scenario/create
 $ {"result":"QWdI3KifK"}
 ```
     
