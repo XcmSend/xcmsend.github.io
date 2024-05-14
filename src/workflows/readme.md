@@ -33,11 +33,11 @@ Drag in the chain box and select which chain you want to use.
 
 ### Add Action:  
 ![](/img/6.png)   
-Every work flow consists of a source chain, an action and a destination chain. Lets add another chain and then an action inbetween them. For this example we are going to use Teleport.  
+Every work flow consists of a source chain, an action and a destination chain. Lets add another chain and then an action inbetween them. For this example we are going to use xTransfer.  
 
-### First teleport:  
+### First xtransfer:  
 ![](/img/7.png)   
-Select either swap or Teleport, in this example we want to send an asset from the source to the destination chain.   
+Select either swap or xTransfer, in this example we want to send an asset from the source to the destination chain.   
 
  
 ### Select asset from source chain:  
@@ -58,8 +58,8 @@ Congratulations! You have created your first part, you can drag in more boxes an
 
 ### Add a swap:  
 ![](/img/12.png)   
-We are now familiar with creating cross chain transfers with teleports we can add a swap. Select asset you want to swap from the first chain box, and the destination asset you want to get on the destination node.
-**Note:**  We currently only supports dex interaction with HydraDx's omnipool. Meaning that swaps are only possible from HydraDx to Hydradx. If you want to continue the transaction flow, you can simply drag in a teleport action and send the asset to another chain.   
+We are now familiar with creating cross chain transfers with xtransfers we can add a swap. Select asset you want to swap from the first chain box, and the destination asset you want to get on the destination node.
+**Note:**  We currently only supports dex interaction with HydraDx's omnipool. Meaning that swaps are only possible from HydraDx to Hydradx. If you want to continue the transaction flow, you can simply drag in a xtransfer action and send the asset to another chain.   
 
 
 ### Head back to /lab

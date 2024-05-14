@@ -1,4 +1,4 @@
-# Teleporting assets cross chain   
+# Transfer assets cross-chain   
 
 
 We support the following XCM asset transfers:

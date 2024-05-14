@@ -1,6 +1,5 @@
 # Troubleshooting
 
-
 >  Best pratices for troubleshooting and debugging Bagpipes.  
 
 

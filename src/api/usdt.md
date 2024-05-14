@@ -22,7 +22,7 @@ Reference:  [How I swapped my DOT to USDT](https://luuu.substack.com/p/how-i-swa
 
  
 ### Links:  
-[Polkadot-JS UI: How to Teleport DOT or KSM to Asset Hub](https://support.polkadot.network/support/solutions/articles/65000181119)   
+[Polkadot-JS UI: How to xTransfer DOT or KSM to Asset Hub](https://support.polkadot.network/support/solutions/articles/65000181119)   
 
 
 
